@@ -1,38 +1,64 @@
+## Sobre mim
 
-# Instruções
+   ![Eu](<Imagem do WhatsApp de 2024-09-14 à(s) 09.46.53_4d262984.jpg>)
 
-Neste arquivo você fará a sua apresentação, assim como a organização geral das suas entregas ao longo das Sprints. Esperamos que haja, minimamente:
- 
-- Uma seção de apresentação, com informações como cidade de residência, instituição de ensino, curso e semestre atual, experiências na área de tecnologia (se houver), hobbies e outras informações que você julgar importante para os monitores.
+**Nome:** Jhoann Carllos Feitosa Araújo
+**Cidade:** Ourém-PA
+**Instituição:** Universidade Federal Rural da Amazônia-UFRA
+**Curso:** Sistemas de Informação
+**Semestre:** 3º
 
-- Uma ou mais seções para descrever o que estiver aprendendo (resumo), de maneira estruturada. Na medida que você avança no programa de bolsas, deverá alimentar para criar um portfólio de seus estudos.
+**Um pouco sobre mim:**
 
-- De forma opcional, sugerimos que você adicione uma foto ao seu perfil do GitHub, pois utilizamos tal informação para facilitar a sua identificação ao longo do processo. Lembre-se que a informação é pública, tal qual você pode testar no exemplo do repositório da [
-The Apache Software Foundation](https://github.com/apache.png?size=250).
+* Sou um jovem apaixonado por tecnologia. Sempre gostei de fuçar as coisas dentro do computador, apesar de nunca ter tido muito acesso à tecnologia, mas sempre foi por esporte mesmo. Agora estou procurando formas de me especializar em alguma área e transformar isso no meu trabalho.
 
+**Experiência com Tecnologia:**
 
-Para cada Sprint, crie um arquivo README.md na respectiva pasta. Este arquivo será o relato da sua entrega. Considere organizar neste arquivo a entrega do desafio, a apresentação dos códigos desenvolvidos, imagens que evidenciam a execução (se necessário) e as imagens dos certificados dos cursos solicitados.
+* As minhas experiências com tecnologias já foram todas adquiridas através da faculdade e alguns cursos por fora também, mas nunca tive nenhuma experiência profissional. A que chegou mais perto disso foi meu ultimo trabalho como operador de caixa por ser operando um computador.
 
+**Hobbies e Interesses:**
 
-Veja um modelo de estrutura básica a seguir:
+* Eu gosto de jogar bola (apesar de não ser muito bom), tênis de mesa, truco e video-games.
 
-___
+**Outras Informações:**
+    * Estou começando a estudar Inglês
+    * Já tenho um conhecimento intermediário em Python
+    * Tenho alguns simples projetos no portfólio
 
-## Apresentação
+## Meus aprendizados
 
-Olá, sou ...
+### 1- Linux: Do Básico ao Avançado
 
-## Sprints 
+Dominando o terminal e explorando as possibilidades do Linux.
 
-1. [Sprint 1](Sprint%201/README.md)
-2. [Sprint 2](Sprint%202/README.md)
-3. [Sprint 3](Sprint%203/README.md)
-4. ...
+* **Fundamentos:**
+  * Compreensão dos conceitos básicos de sistemas operacionais.
+  * Instalação e configuração inicial de distribuições Linux.
+* **Linha de Comando:**
+  * Navegação fluente no sistema de arquivos.
+  * Manipulação eficiente de arquivos e diretórios.
+  * Automatização de tarefas com scripts em Bash.
+* **Gerenciamento de Pacotes:**
+  * Instalação, atualização e remoção de software com facilidade.
+  * Compreensão dos diferentes gerenciadores de pacotes.
+* **Usuários e Permissões:**
+  * Criação e gerenciamento de usuários e grupos.
+  * Controle preciso das permissões de arquivos e diretórios.
+* **Rede:**
+  * Configuração de interfaces de rede e servidores.
+  * Utilização de ferramentas de rede para diagnóstico e troubleshooting.
+* **Outros Tópicos:**
+  * Edição de texto com Vim e Nano.
+  * Busca por arquivos e conteúdo com grep e find.
+  * Gerenciamento de processos e serviços.
 
-___
+### GitHub
 
-
-# Dicas
-
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* **Conceitos Fundamentais:**
+  * Compreensão dos conceitos de repositórios, commits, branches e pull requests.
+  * Dominando o fluxo de trabalho Git.
+* **Utilização Diária:**
+  * Criação e gerenciamento de repositórios.
+  * Controle de versões com commits eficientes.
+  * Colaboração em projetos com branches e pull requests.
+  * Resolução de conflitos e manutenção de um histórico limpo.
