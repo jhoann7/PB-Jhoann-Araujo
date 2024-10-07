@@ -1,0 +1,6 @@
+select cdpro, nmcanalvendas, nmpro,
+	(sum(qtd)*count(nmcanalvendas))/ count(qtd) as quantidade_vendas
+from tbvendas
+where status = ('Concluído')
+group by nmcanalvendas, nmpro
+order by quantidade_vendas

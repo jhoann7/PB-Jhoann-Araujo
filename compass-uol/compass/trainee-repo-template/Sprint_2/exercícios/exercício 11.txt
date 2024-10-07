@@ -1,0 +1,6 @@
+
+select cdcli, nmcli, (vrunt*qtd)*vrunt as gasto
+from tbvendas
+group by nmcli
+order by gasto desc
+limit 1

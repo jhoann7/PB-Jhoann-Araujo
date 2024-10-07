@@ -1,0 +1,12 @@
+ 
+SELECT autor.nome
+
+FROM livro
+LEFT JOIN autor
+ON livro.autor = autor.codautor
+LEFT JOIN editora
+ON livro.editora = editora.codeditora
+LEFT JOIN endereco
+ON editora.endereco = endereco.codendereco
+WHERE endereco.estado NOT IN ('RIO GRANDE DO SUL', 'PARANÁ', 'SANTA CATARINA')
+GROUP BY autor.nome
