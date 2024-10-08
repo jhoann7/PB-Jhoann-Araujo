@@ -1,8 +1,0 @@
-select tbvendas.cdvdd, nmvdd
-from tbvendedor
-left join tbvendas
-on tbvendedor.cdvdd = tbvendas.cdvdd 
-where status = ('Concluído')
-group by tbvendas.cdvdd
-order by count(tbvendedor.cdvdd) desc
-limit 1

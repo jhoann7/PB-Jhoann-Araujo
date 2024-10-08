@@ -1,6 +1,0 @@
-SELECT 	estado,
-	round(sum(cast(qtd AS real) * CAST(vrunt AS real)) / COUNT(*) ,2) AS gastomedio
-FROM tbvendas
-WHERE status = 'Concluído'
-GROUP BY estado 
-order BY gastomedio desc
