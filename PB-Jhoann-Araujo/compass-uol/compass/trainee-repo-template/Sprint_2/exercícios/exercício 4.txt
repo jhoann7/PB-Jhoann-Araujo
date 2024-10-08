@@ -1,0 +1,12 @@
+SELECT
+    autor.nome,
+    autor.codautor,
+    autor.nascimento,
+    COUNT(livro.autor) AS quantidade
+FROM autor
+LEFT JOIN livro
+ON autor.codautor = livro.autor
+LEFT JOIN editora
+ON autor.codautor = editora.codeditora
+GROUP BY autor.codautor, autor.nome, autor.nascimento
+ORDER BY autor.nome

@@ -1,0 +1,6 @@
+select cdpro, nmpro
+from tbvendas
+where cast(dtven as date) > cast('2014-02-03' as date) and cast(dtven as date) < cast('2018-02-02' as date)
+GROUP by nmpro 
+order by count(nmpro) desc
+limit 1
