@@ -73,7 +73,7 @@ Nessa etapa eu também tive dificuldade para pegar os valores numéricos correta
 
 Na etapa 8, foi pedido para que eu criasse mais dois cálculos sobre o dataseat. Os dois cáuculos que eu criei foram os seguintes:
 
-# Top 10 apps mais caros existentes no dataseat.
+## Top 10 apps mais caros existentes no dataseat.
 
 ![cod. top 10 apps mais caros.](../evidências/printsDesafio/cdTop10caros.png)
 
