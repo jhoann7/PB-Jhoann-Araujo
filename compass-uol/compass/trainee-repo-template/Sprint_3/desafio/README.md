@@ -81,7 +81,7 @@ No primeiro cálculo eu criei uma lista com o top 10 de apps mais caros existent
 
 ![img. top 10 apps mais caros.](../evidências/printsDesafio/imgTop10caros.png)
 
-# Top 100 apps pior avaliados.
+## Top 100 apps pior avaliados.
 
 ![cod. 100 piores.](../evidências/printsDesafio/cod100Piores.png)
 
@@ -94,7 +94,7 @@ No segundo cálculo eu criei uma lista com o top 100 de apps pior avaliados. Eu 
 
 Na etapa 9 foi pedido para criar gráficos para melhor visualização dos dois cálculos que foram solicitados na etapa 8, eu criei os gráficos da seguinte forma:
 
-# Top 10 apps mais caros no dataseat (gráfico de barras deitadas).
+## Top 10 apps mais caros no dataseat (gráfico de barras deitadas).
 
 ![cod. gráfico de barras deitadas.](../evidências/printsDesafio/cdGrafBarrDeit.png)
 
@@ -104,7 +104,7 @@ Para os top 10 apps mais caros do dataseat eu utilizo um gráfico de barras deit
 
 Como pode ver, os números da posição de cada aplicativo não estão aparecendo da forma que eu acho que deveriam, eles pulam de dois em dois. Eu tentei encontrar uma forma de aparecer um por um, mas não tive sucesso.
 
-# Top 100 apps pior avaliados (gráfico de violino).
+## Top 100 apps pior avaliados (gráfico de violino).
 
 ![cod. gráfico de violino.](../evidências/printsDesafio/codGrafVio.png)
 
